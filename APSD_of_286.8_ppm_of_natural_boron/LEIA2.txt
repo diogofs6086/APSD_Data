@@ -1,0 +1,31 @@
+14/05/2018
+
+Operação: 3639
+
+Subcriticalidade. BCs retiradas 100%.
+
+Instrumentação  1 : He3  ( número de série 8739) porta 37 
+pré 578 (ganho baixo)
+fonte ????
+Ganho Grosso: 200
+Ganho Fino:   0.7
+Shaping Time: 2 us
+Amplificador Ortec 572A SN:160
+
+Instrumentação 2:  He3  ( número de série 8742) porta 38 
+pré  (ganho baixo) 
+fonte ????
+Ganho Grosso:  50
+Ganho Fino:    0.7
+Shaping Time: 2 us
+Amplificador Ortec 572 SN: ?
+
+Aquisição:
+Dwell Time: 5E-06
+Qtd Canais: 62500
+Médias: 3000 (marca 17 minutos mas demora cerca de 35)
+
+Eixo das frequências é dado por: X = 2*i*(freq/canais).
+
+
+ 
