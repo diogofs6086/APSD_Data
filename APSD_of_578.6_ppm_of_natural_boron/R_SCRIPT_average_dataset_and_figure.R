@@ -3,8 +3,7 @@
 # and its uncertainty. Also, the figure of the average APSD
 # can be created as the last step of the script.
 
-# setwd("C:/Users/scape/Dropbox/Doutorado/Final/Paper da tese/arquivos para a ANE/Data_in_brief/dados/15kg")
-# setwd("/media/scape/98A8F45FA8F43D76/Users/scape/Dropbox/Doutorado/Final/Paper da tese/arquivos para a ANE/Data_in_brief/dados/APSD_of_578.6_ppm_of_natural_boron")
+# setwd("TYPE_THE_PATH")
 
 # Needed packages
 library(dplyr)
