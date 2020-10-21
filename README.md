@@ -1,5 +1,4 @@
-# <p align="center">APSD up to 100 kHz raw data measured in the
-IPEN/MB-01 research nucelar reactor facility</p>
+# <p align="center">APSD up to 100 kHz raw data measured in the / IPEN/MB-01 research nucelar reactor facility</p>
 
 
 This repository was built for the raw data from the subcritical neutron noise experiments performed in the IPEN/MB-01 research nuclear reactor facility. The subcriticality was reached by poisoning the reactor water with boric acid (H<sub>3</sub>BO<sub>3</sub>) in the concentrations of 286.8 and 578.6 ppm of natural boron. The subcritical reactivities were respectively -8.95$ and -17.43$. The Auto Power Spectral Densities (APSD) were inferred employing the IPEN/MB-01 Correlator (a set of instrumentation and software) and were best described by a four-mode decay model up to about 70 kHz.
