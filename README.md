@@ -8,7 +8,9 @@ Two articles were written for those experiments, one with the description of the
 1)	Diogo Feliciano dos Santos, Adimir dos Santos, and Ricardo Diniz. APSD up to 100 kHz dataset measured in the IPEN/MB-01 research reactor facility. Data in Brief Journal, 2020. DOI: coming soon.
 2)	Diogo Feliciano dos Santos and Adimir dos Santos. Zero-power noise up to 100 kHz in the IPEN/MB-01 research reactor facility. Annals of Nuclear energy, 2020. DOI: coming soon.
 
-Corresponding authors:
-Adimir dos Santos (adsantos@usp.br) – Nuclear and Energy Research Institute (IPEN)
-Diogo Feliciano dos Santos (diogofs@msn.com)
 
+Corresponding authors:
+
+Adimir dos Santos (adsantos@usp.br) – Nuclear and Energy Research Institute (IPEN)
+
+Diogo Feliciano dos Santos (diogofs@msn.com)
